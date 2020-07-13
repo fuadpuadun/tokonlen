@@ -1,0 +1,15 @@
+{
+    "name": "ppl1/tubes",
+    "description": "Tugas besar E-commerce",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "irfanswr",
+            "email": "irfan.siswara.tif18@polban.ac.id"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.13"
+    }
+}
